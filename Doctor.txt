@@ -1,0 +1,5 @@
+julia,fernando,784455678,1990-09-09,111,abcd
+metin,merlin,774433232,1999-05-21,222,assdf
+ravin,kumara,712345678,2000-02-06,444,sdfg
+jack,rustin,783454254,1998-04-25,333,hfdfhd
+serbin,northan,776756456,1998-12-21,555,dffggdh
